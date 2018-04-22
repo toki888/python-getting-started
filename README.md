@@ -42,3 +42,6 @@ or
 For more information about using Python on Heroku, see these Dev Center articles:
 
 - [Python on Heroku](https://devcenter.heroku.com/categories/python)
+
+Cloned to my account:
+https://github.com/toki888/python-getting-started
